@@ -4,7 +4,7 @@
 	<info name="informacion">
 		<autor>Diego Campos</autor>
 		<fecha>25-07-2016</fecha>
-		<data encoding="base64" compression="zlib">d591415f3ed9361fec49dd22276f81e1dcc2e3da</data>
+		<commit>d591415f3ed9361fec49dd22276f81e1dcc2e3da</commit>
 	</info>
 	<detalle name="descripcion">
 		<nversion>1.0</nversion>
