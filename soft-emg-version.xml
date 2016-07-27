@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
+<map version="2.0">
+	<info name="informacion">
+		<autor>Diego Campos</autor>
+		<fecha>27-07-2016</fecha>
+		<commit>7b473f941348ffefafb1b8d3332e6d3b91c516c9</commit>
+	</info>
+	<detalle name="descripcion">
+		<nversion>2.0</nversion>
+		<data encoding="base64" compression="zlib">
+			1) Prueba de integracion de Software AUTO_UPDATER
+		</data>
+	</detalle>
+</map>
+
 <map version="1.0">
 	<info name="informacion">
 		<autor>Diego Campos</autor>
