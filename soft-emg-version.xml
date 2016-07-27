@@ -12,9 +12,7 @@
 			1) Prueba de integracion de Software AUTO_UPDATER
 		</data>
 	</detalle>
-</map>
 
-<map version="1.0">
 	<info name="informacion">
 		<autor>Diego Campos</autor>
 		<fecha>25-07-2016</fecha>
@@ -27,4 +25,5 @@
 			2) Tabla de datos estadisticos a la ventana principal.
 		</data>
 	</detalle>
+	
 </map>
